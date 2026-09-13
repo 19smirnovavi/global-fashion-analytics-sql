@@ -20,6 +20,7 @@
 * **Top Category by Revenue:** `Feminine` — `Dresses and Jumpsuits` (€31.5 млн).
 * **Most Profitable Item:** `Product ID` #17792 (Истинная средняя маржа — €114.60 с одной штуки).
 * *Результат:* В ходе аудита была обнаружена критическая ошибка отчётности (смешивание локальных валют в столбце `Unit Price` без конвертации). Применение корректного пересчета спасло маркетинговый бюджет от неэффективного вливания в низкомаржинальные позиции.
+<img width="1003" height="487" alt="category_management" src="https://github.com/user-attachments/assets/09e2accf-eb16-4f19-b240-352c9cae9af8" />
 
 ### Block 3. Geographical Expansion & Store Efficiency
 * **Top Efficient City:** Лос-Анджелес, США (Показатель `revenue_per_employee` составил €5.3 млн на одного сотрудника).
@@ -33,3 +34,4 @@
 * **Peak Month:** Декабрь (€45.2 млн выручки) — мощный предновогодний всплеск продаж.
 * **Lowest Month:** Февраль (€8.6 млн выручки) — самый провальный месяц в году. 
 * *Рекомендация:* В феврале необходимо внедрять агрессивные маркетинговые акции и закрытые распродажи для удержания кассовой стабильности торговых точек.
+<img width="1002" height="517" alt="graph" src="https://github.com/user-attachments/assets/ac105b48-78e3-4b0d-b7de-22ec3198c537" />
